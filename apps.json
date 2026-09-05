@@ -1,14 +1,14 @@
 [
   {
-    "appName": "Shan Keyboard",
-    "appDescription": "Shan Language Keyboard App",
-    "downloadUrl": "https://github.com/YourName/Repo/releases/download/v1.0/keyboard.apk",
+    "appName": "Tai Learner",
+    "appDescription": "Shan Language Learning App သွၼ်လိၵ်ႈတႆး",
+    "downloadUrl": "https://github.com/saishweaung2023/Tai/releases/download/v1.0.1/Tai.Learner.apk",
     "iconResId": 2131230828
   },
   {
     "appName": "Tai Kids Quiz",
-    "appDescription": "Shan Kids Learning Quiz App",
-    "downloadUrl": "https://github.com/YourName/Repo/releases/download/v1.0/TaiKidsQuiz_1.0.apk",
+    "appDescription": "Shan Kids Learning Quiz App လဵၵ်ႈႁဵၼ်းလႄႈၸၢမ်းၺၢၼ်ႇ",
+    "downloadUrl": "https://github.com/saishweaung2023/Tai/releases/download/v1.0.0/TaiKidsQuiz.apk",
     "iconResId": 2131230828
   }
 ]
