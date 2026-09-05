@@ -4,7 +4,7 @@
     "appName": "Tai Learner",
     "appDescription": "Shan Language Learning App",
     "downloadUrl": "https://github.com/saishweaung2023/Tai/releases/download/v1.0.1/Tai.Learner.apk",
-    "iconResId": "https://github.com/user-attachments/assets/35f275e0-ad72-4e98-bbd1-41c0cbd55134"
+    "iconUrl": "https://github.com/user-attachments/assets/35f275e0-ad72-4e98-bbd1-41c0cbd55134",
     "packageName": "com.poepoemyintswe.tailearner"
   },
   {
@@ -12,7 +12,7 @@
     "appName": "Tai Kids Quiz",
     "appDescription": "Shan Kids Learning Quiz App",
     "downloadUrl": "https://github.com/saishweaung2023/Tai/releases/download/v1.0.0/TaiKidsQuiz.apk",
-    "iconResId": "https://github.com/user-attachments/assets/55d0204c-dc61-4cbe-81f4-4b642bfd6713"
+    "iconUrl": "https://github.com/user-attachments/assets/55d0204c-dc61-4cbe-81f4-4b642bfd6713",
     "packageName": "com.tai.kids.quiz"
   }
 ]
