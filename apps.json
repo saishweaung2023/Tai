@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "Shan Keyboard",
+    "appDescription": "Shan Language Keyboard App",
+    "downloadUrl": "https://github.com/YourName/Repo/releases/download/v1.0/keyboard.apk",
+    "iconResId": 2131230828
+  },
+  {
+    "appName": "Tai Kids Quiz",
+    "appDescription": "Shan Kids Learning Quiz App",
+    "downloadUrl": "https://github.com/YourName/Repo/releases/download/v1.0/TaiKidsQuiz_1.0.apk",
+    "iconResId": 2131230828
+  }
+]
